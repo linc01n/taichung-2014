@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684461,
+                    24.14483333333333,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "台中公園"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6855432,
+                    24.15049444444445,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "一中商圏"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6743583333333,
+                    24.1598808,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "國立自然科學博物館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.663324,
+                    24.14053333333333,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "國立台灣美術館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.646491,
+                    24.17874444444445,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "逢甲夜市"
+            }
+        }
+    ]
+}
