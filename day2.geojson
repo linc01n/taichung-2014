@@ -1,53 +1,58 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.566733,
-                    25.038837,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "新光三越",
-                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=25038837,121566733,8836090663441037383&hl=en&gl=&ui=earth&view=teaser\";</script></body></html>",
-                "placepageUri": "http://maps.google.com/maps/place?latlng=25038837,121566733,8836090663441037383&hl=en&gl=&ui=earth&view=teaser"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.565856,
-                    25.039357,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "誠品信義店",
-                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=25039357,121565856,8777987053672578635&hl=en&gl=&ui=earth&view=teaser\";</script></body></html>",
-                "placepageUri": "http://maps.google.com/maps/place?latlng=25039357,121565856,8777987053672578635&hl=en&gl=&ui=earth&view=teaser"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.564101,
-                    25.033493,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Ding Tai Feng",
-                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=25033493,121564101,11905942728449857749&hl=en&gl=&ui=earth&view=teaser\";</script></body></html>",
-                "placepageUri": "http://maps.google.com/maps/place?latlng=25033493,121564101,11905942728449857749&hl=en&gl=&ui=earth&view=teaser"
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.565856,
+          25.039357,
+          0
+        ]
+      },
+      "properties": {
+        "name": "誠品信義店",
+        "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=25039357,121565856,8777987053672578635&hl=en&gl=&ui=earth&view=teaser\";</script></body></html>",
+        "placepageUri": "http://maps.google.com/maps/place?latlng=25039357,121565856,8777987053672578635&hl=en&gl=&ui=earth&view=teaser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.564101,
+          25.033493,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ding Tai Feng",
+        "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=25033493,121564101,11905942728449857749&hl=en&gl=&ui=earth&view=teaser\";</script></body></html>",
+        "placepageUri": "http://maps.google.com/maps/place?latlng=25033493,121564101,11905942728449857749&hl=en&gl=&ui=earth&view=teaser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.565856,
+            25.039357,
+            0
+          ],
+          [
+            121.564101,
+            25.033493,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Day2"
+      }
+    }
+  ]
 }
