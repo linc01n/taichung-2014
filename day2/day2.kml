@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>台北</name>
+	<open>1</open>
+	<Folder>
+		<name>Day1</name>
+		<open>1</open>
+		<Placemark id="22.2.3">
+			<name>誠品信義店</name>
+			<open>1</open>
+			<address>110台灣台北市信義區松高路11號</address>
+			<phoneNumber>02 8789 3388</phoneNumber>
+			<snippet>110台灣台北市信義區松高路11號</snippet>
+			<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="http://maps.google.com/maps/place?latlng=25039357,121565856,8777987053672578635&hl=en&gl=&ui=earth&view=teaser";</script></body></html>]]></description>
+			<styleUrl>#listing_B</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>http://maps.google.com/maps/place?latlng=25039357,121565856,8777987053672578635&amp;hl=en&amp;gl=&amp;ui=earth&amp;view=teaser</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>121.565856,25.039357,0</coordinates>
+			</Point>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>台北市</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>信義區</LocalityName>
+                <Thoroughfare>
+                  <ThoroughfareName>松高路11號</ThoroughfareName>
+                </Thoroughfare>
+                <PostalCode>
+                  <PostalCodeNumber>110</PostalCodeNumber>
+                </PostalCode>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+		<Placemark id="22.2.9">
+			<name>Ding Tai Feng</name>
+			<open>1</open>
+			<address>110台灣台北市信義區府路45號B1樓</address>
+			<phoneNumber>02 8101 7799</phoneNumber>
+			<snippet>110台灣台北市信義區府路45號B1樓</snippet>
+			<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="http://maps.google.com/maps/place?latlng=25033493,121564101,11905942728449857749&hl=en&gl=&ui=earth&view=teaser";</script></body></html>]]></description>
+			<styleUrl>#listing_H</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>http://maps.google.com/maps/place?latlng=25033493,121564101,11905942728449857749&amp;hl=en&amp;gl=&amp;ui=earth&amp;view=teaser</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>121.564101,25.033493,0</coordinates>
+			</Point>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>台北市</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>信義區</LocalityName>
+                <Thoroughfare>
+                  <ThoroughfareName>府路45號</ThoroughfareName>
+                  <AddressLine>B1樓</AddressLine>
+                </Thoroughfare>
+                <PostalCode>
+                  <PostalCodeNumber>110</PostalCodeNumber>
+                </PostalCode>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+	</Folder>
+</Folder>
+</kml>
