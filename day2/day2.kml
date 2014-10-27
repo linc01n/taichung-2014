@@ -1,28 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Folder>
-	<name>台北</name>
+	<name>Day1</name>
 	<open>1</open>
-	<Folder>
-		<name>Day1</name>
+	<Placemark id="21.1.3">
+		<name>新光三越</name>
 		<open>1</open>
-		<Placemark id="22.2.3">
-			<name>誠品信義店</name>
-			<open>1</open>
-			<address>110台灣台北市信義區松高路11號</address>
-			<phoneNumber>02 8789 3388</phoneNumber>
-			<snippet>110台灣台北市信義區松高路11號</snippet>
-			<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="http://maps.google.com/maps/place?latlng=25039357,121565856,8777987053672578635&hl=en&gl=&ui=earth&view=teaser";</script></body></html>]]></description>
-			<styleUrl>#listing_B</styleUrl>
-			<ExtendedData>
-				<Data name="placepageUri">
-					<value>http://maps.google.com/maps/place?latlng=25039357,121565856,8777987053672578635&amp;hl=en&amp;gl=&amp;ui=earth&amp;view=teaser</value>
-				</Data>
-			</ExtendedData>
+		<address>No. 12, Songgao Road, Xinyi District, Taipei City, Taiwan 110</address>
+		<phoneNumber>02 8780 9966</phoneNumber>
+		<snippet>No. 12, Songgao Road, Xinyi District, Taipei City, Taiwan 110</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="http://maps.google.com/maps/place?latlng=25038837,121566733,8836090663441037383&hl=en&gl=&ui=earth&view=teaser";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>http://maps.google.com/maps/place?latlng=25038837,121566733,8836090663441037383&amp;hl=en&amp;gl=&amp;ui=earth&amp;view=teaser</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
 			<Point>
-				<coordinates>121.565856,25.039357,0</coordinates>
+				<coordinates>121.566733,25.038837,0</coordinates>
 			</Point>
-			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+			<LinearRing>
+				<coordinates>
+					121.564215,25.036319,0 121.564215,25.041355,0 121.569251,25.041355,0 121.569251,25.036319,0 121.564215,25.036319,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+		<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Taipei City</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Xinyi District</LocalityName>
+                <Thoroughfare>
+                  <ThoroughfareName>No. 12, Songgao Road</ThoroughfareName>
+                </Thoroughfare>
+                <PostalCode>
+                  <PostalCodeNumber>110</PostalCodeNumber>
+                </PostalCode>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+	</Placemark>
+	<Placemark id="22.2.3">
+		<name>誠品信義店</name>
+		<open>1</open>
+		<address>110台灣台北市信義區松高路11號</address>
+		<phoneNumber>02 8789 3388</phoneNumber>
+		<snippet>110台灣台北市信義區松高路11號</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="http://maps.google.com/maps/place?latlng=25039357,121565856,8777987053672578635&hl=en&gl=&ui=earth&view=teaser";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>http://maps.google.com/maps/place?latlng=25039357,121565856,8777987053672578635&amp;hl=en&amp;gl=&amp;ui=earth&amp;view=teaser</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>121.565856,25.039357,0</coordinates>
+		</Point>
+		<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
           <Country>
             <CountryNameCode>TW</CountryNameCode>
             <AdministrativeArea>
@@ -39,24 +77,24 @@
             </AdministrativeArea>
           </Country>
         </AddressDetails>
-		</Placemark>
-		<Placemark id="22.2.9">
-			<name>Ding Tai Feng</name>
-			<open>1</open>
-			<address>110台灣台北市信義區府路45號B1樓</address>
-			<phoneNumber>02 8101 7799</phoneNumber>
-			<snippet>110台灣台北市信義區府路45號B1樓</snippet>
-			<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="http://maps.google.com/maps/place?latlng=25033493,121564101,11905942728449857749&hl=en&gl=&ui=earth&view=teaser";</script></body></html>]]></description>
-			<styleUrl>#listing_H</styleUrl>
-			<ExtendedData>
-				<Data name="placepageUri">
-					<value>http://maps.google.com/maps/place?latlng=25033493,121564101,11905942728449857749&amp;hl=en&amp;gl=&amp;ui=earth&amp;view=teaser</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>121.564101,25.033493,0</coordinates>
-			</Point>
-			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+	</Placemark>
+	<Placemark id="22.2.9">
+		<name>Ding Tai Feng</name>
+		<open>1</open>
+		<address>110台灣台北市信義區府路45號B1樓</address>
+		<phoneNumber>02 8101 7799</phoneNumber>
+		<snippet>110台灣台北市信義區府路45號B1樓</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="http://maps.google.com/maps/place?latlng=25033493,121564101,11905942728449857749&hl=en&gl=&ui=earth&view=teaser";</script></body></html>]]></description>
+		<styleUrl>#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>http://maps.google.com/maps/place?latlng=25033493,121564101,11905942728449857749&amp;hl=en&amp;gl=&amp;ui=earth&amp;view=teaser</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>121.564101,25.033493,0</coordinates>
+		</Point>
+		<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
           <Country>
             <CountryNameCode>TW</CountryNameCode>
             <AdministrativeArea>
@@ -74,7 +112,6 @@
             </AdministrativeArea>
           </Country>
         </AddressDetails>
-		</Placemark>
-	</Folder>
+	</Placemark>
 </Folder>
 </kml>

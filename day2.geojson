@@ -6,6 +6,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    121.566733,
+                    25.038837,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "新光三越",
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=25038837,121566733,8836090663441037383&hl=en&gl=&ui=earth&view=teaser\";</script></body></html>",
+                "placepageUri": "http://maps.google.com/maps/place?latlng=25038837,121566733,8836090663441037383&hl=en&gl=&ui=earth&view=teaser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     121.565856,
                     25.039357,
                     0
